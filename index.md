@@ -13,4 +13,4 @@ Legal documents for the PlantZen app by WiseRock.
 
 ## Support
 
-Need help with the app, or have a question about your data? Email infowiserock@gmail.com. We answer within a few days, and privacy requests within a month.
+Need help with the app, or have a question about your data? Email plantzen.ai@gmail.com. We answer within a few days, and privacy requests within a month.

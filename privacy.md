@@ -20,7 +20,7 @@ ads, we run no tracking or analytics, and you can delete everything yourself fro
 
 WiseRock is the data controller for the personal data described here.
 
-Contact: infowiserock@gmail.com
+Contact: plantzen.ai@gmail.com
 
 ## 2. What we collect and why
 
@@ -157,7 +157,7 @@ correct it, delete it, restrict or object to its processing, or hand it over in 
 You can withdraw your consent to third-party AI processing at any time under Settings › Photo
 analysis & AI; the app then asks again before the next scan or question. Deleting your account
 and exporting your data are both available in Settings. For anything else, email
-infowiserock@gmail.com; we answer within one month.
+plantzen.ai@gmail.com; we answer within one month.
 
 You can also complain to the Dutch data protection authority, the Autoriteit Persoonsgegevens
 ([autoriteitpersoonsgegevens.nl](https://www.autoriteitpersoonsgegevens.nl)).
@@ -183,4 +183,4 @@ announced in the app before it takes effect.
 ## 9. Contact
 
 WiseRock, Hendrik-Ido-Ambacht, the Netherlands. KVK 93580126.
-Email: infowiserock@gmail.com
+Email: plantzen.ai@gmail.com

@@ -137,4 +137,4 @@ announced in the app before it takes effect; using the app after that means you 
 ## 15. Contact
 
 WiseRock, Hendrik-Ido-Ambacht, the Netherlands. KVK 93580126.
-Email: infowiserock@gmail.com
+Email: plantzen.ai@gmail.com
